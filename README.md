@@ -1,5 +1,5 @@
 # tadreeb_view
-<b>UNDER DEVELOPMENT</b>
+<b>Not Completed</b>
 
 It is an educational program that contains videos, lessons, discounts, and teacher profiles.
   
